@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# My Favorite Things:
+- Raindrops on Roses
+- Whiskers on kittens
+- Bright copper kettles
+- Warm woolen mittens
